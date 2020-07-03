@@ -5,11 +5,7 @@
 
 #### 使用指南
 
-下载放入项目，.pch或者基类viewController中导入
-```
-#import "UIViewController+Leak.h"
-#import "UINavigationController+Leak.h"
-```
+下载放入项目即可。默认DEBUG模式下生效。
 
 #### pod
 
